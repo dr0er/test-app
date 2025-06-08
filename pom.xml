@@ -8,7 +8,7 @@
 		<version>2.6.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>pl.pbak.demo</groupId>
+	<groupId>pl.dr0er.demo</groupId>
 	<artifactId>test</artifactId>
 	<version>local</version>
 	<name>Test App</name>
